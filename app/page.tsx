@@ -5,6 +5,11 @@ export default function Home() {
     <main className={styles.main}>
       <h1>NFT Finance Foundation</h1>
 
+      <h3>
+        We are a non-profit organistion providing public goods services for NFT
+        finance.
+      </h3>
+
       <p>
         NFT finance is a revolutionary ecosystem of financial tools and services
         designed to unlock the full potential of the digital economy. From
