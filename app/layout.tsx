@@ -2,7 +2,8 @@ import "./globals.css";
 
 export const metadata = {
   title: "NFT Finance Foundation",
-  description: "Public goods services for NFT finance",
+  description:
+    "We are a non-profit organistion providing public goods services for NFT finance",
 };
 
 export default function RootLayout({
