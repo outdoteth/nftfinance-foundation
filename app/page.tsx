@@ -11,34 +11,32 @@ export default function Home() {
       </h3>
 
       <p>
-        NFT finance is a revolutionary ecosystem of financial tools and services
-        designed to unlock the full potential of the digital economy. From
-        lending markets to perpetual futures, options to insurance, NFT finance
-        provides a suite of powerful financial tools that have the potential to
-        transform the way we interact with digital objects.
+        NftFi is a revolutionary ecosystem of financial tools and services with
+        the power to unlock the full potential of the digital economy. From
+        money markets to perpetual futures, options to insurance, AMMs to
+        order-books, NftFi provides a suite of powerful financial tools that
+        will transform the way we interact with digital objects.
       </p>
 
       <p>
-        Through this, NFT finance provides a gateway to a more vibrant and
-        accessible digital economy. By unlocking capital flows and streamlining
-        transactions, it democratizes access to everyone and provides
-        opportunities that were previously out of reach. Our vision is one where
-        digital objects are exchanged freely and efficiently, where the digital
-        economy is vibrant and thriving, and where anyone can interact with NFT
-        finance without barriers. The potential of NFT finance is limitless, and
+        Our vision is one where digital objects are exchanged freely and
+        efficiently, where the digital economy thrives, and where anyone can
+        participate without barriers. The potential of NftFi is limitless, and
         we are committed to exploring every possibility to shape a better
-        future.
+        future. By unlocking capital flows and streamlining transactions, it
+        democratizes access and provides opportunities that were previously out
+        of reach.
       </p>
 
       <p>
         Despite the immense potential of NFT finance to transform the digital
         economy, there are significant challenges that must be addressed in
-        order to fully realize its benefits. Many individuals lack financial
-        literacy and technical expertise, which makes it difficult for them to
-        effectively engage with NFT financial tooling. Additionally, there is a
-        lack of awareness about NFT finance and its potential, limiting its
-        adoption and growth. To overcome these challenges, we must take a
-        multi-faceted approach that includes education, awareness, and
+        order to fully realize its benefits. Many retail participants lack
+        financial literacy and technical expertise, which makes it difficult for
+        them to effectively engage with NFT financial tooling. Additionally,
+        there is a lack of awareness about NFT finance and its potential,
+        limiting its adoption and growth. To overcome these challenges, we must
+        take a multi-faceted approach that includes education, awareness, and
         connection-building.
       </p>
 
@@ -58,7 +56,7 @@ export default function Home() {
       </p>
 
       <p>
-        We want NFT finance to be accessible to everyone, regardless of their
+        We want NftFi to be accessible to everyone, regardless of their
         financial literacy or technical expertise. We believe that by empowering
         individuals with the tools and knowledge they need to engage with NFT
         finance, we can create a more equitable and sustainable digital economy.
